@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: February 23rd 2019
 
 **Today's Progress**: FreeCodeAcademy HTML 5 Work. Went well. More to touch up pn. 
 
