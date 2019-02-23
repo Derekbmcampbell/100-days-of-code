@@ -3,9 +3,9 @@
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: fjfjg
+**Today's Progress**: FreeCodeAcademy HTML 5 Work. Went well. More to touch up pn. 
 
-**Thoughts:** fkfjg
+**Thoughts:** HTML isn't so bad, It's been a long time. 
 
 **Link to work:** [Calculator App](http://www.example.com)
 
